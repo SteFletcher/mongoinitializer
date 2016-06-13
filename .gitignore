@@ -1,0 +1,7 @@
+config/
+createShardReplicaSets.sh
+jmeter.log
+mongo/
+remAll.sh
+startConfigServers.sh
+test.sh
